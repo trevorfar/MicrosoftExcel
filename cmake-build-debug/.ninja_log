@@ -1,0 +1,7 @@
+# ninja log v5
+1	86	7236239457742936	CMakeFiles/model.dir/model.c.obj	9001f41a0ebd474f
+10	317	7236225029681634	CMakeFiles/interactive.dir/interface.c.obj	9f96d5404f345219
+86	191	7236239458748455	interactive.exe	c461462d03fe9821
+3	218	7283510045376867	CMakeFiles/model.dir/model.c.obj	2c2102ac0cc3d932
+10	275	7283510045942795	CMakeFiles/interactive.dir/interface.c.obj	c49998be0907b7bb
+275	657	7283510049678079	interactive.exe	c461462d03fe9821

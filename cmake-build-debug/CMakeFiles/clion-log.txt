@@ -1,0 +1,11 @@
+"C:\Program Files\JetBrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe" -G Ninja -S "C:\Users\trevo\Desktop\Second Year\Codingassignment" -B "C:\Users\trevo\Desktop\Second Year\Codingassignment\cmake-build-debug"
+-- The C compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Users/trevo/Downloads/mingw64-13.1.0/mingw64/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+MINGW_DIR=C:/Users/trevo/Downloads/mingw64-13.1.0/mingw64
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/trevo/Desktop/Second Year/Codingassignment/cmake-build-debug
